@@ -3,7 +3,7 @@ Software de visualização da área de transferência do Windows, com as opçõe
 
 ## Interface :desktop_computer:<br>
 
-### Interface com o Clipboard Vazio
+### <p align="center"> Interface com o Clipboard Vazio </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto/main/img-read/padr%C3%A3o.png" />
 </p>
@@ -17,12 +17,11 @@ Software de visualização da área de transferência do Windows, com as opçõe
 
 ##
 
-### Interface com o Clipboard contendo uma imagem
+### <p align="center"> Interface com o Clipboard contendo uma imagem </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto/main/img-read/Imagem.png" />
 </p>
 
-##
 
 ## Autor 🖥
 
