@@ -1,0 +1,3 @@
+- O programa .EXE rodou com certeza nos testes apenas em computadores que tem o python instalado
+
+- É necessario os arquivos de imagem "Clipimage" e "windows" para o funcionamento do .EXE, pois são imagens usadas para armazenar o clipboard
