@@ -14,3 +14,10 @@ Software de visualização da área de transferência do Windows, com as opçõe
 <p align="center">
   <img src="https://raw.githubusercontent.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto/main/img-read/Imagem.png" />
 </p>
+
+## Autor 🖥
+
+<p align="center">
+  <img src= "https://avatars.githubusercontent.com/u/89622689?v=4" width = "250px"></a>
+  <h3 align="center">Davi Alves da Costa</h3>
+</p>
