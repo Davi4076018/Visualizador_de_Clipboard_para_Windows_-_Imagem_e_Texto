@@ -8,7 +8,7 @@ Software de visualização da área de transferência do Windows, com as opçõe
   <img src="https://raw.githubusercontent.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto/main/img-read/padr%C3%A3o.png" />
 </p>
 
-### Interface com o Clipboard contendo texto
+### <p align="center"> Interface com o Clipboard contendo texto </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto/main/img-read/imagemTexto.png" />
 </p>
