@@ -23,7 +23,7 @@ Software de visualização da área de transferência do Windows, com as opçõe
 </p>
 
 
-## Autor 🖥
+## Autor ⌨️
 
 <p align="center">
   <img src= "https://avatars.githubusercontent.com/u/89622689?v=4" width = "250px"></a>
