@@ -1,0 +1,1 @@
+Mantenha a Imagem "windows.png" na mesma pasta que o main
