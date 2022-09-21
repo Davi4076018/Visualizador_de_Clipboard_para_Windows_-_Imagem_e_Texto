@@ -35,7 +35,7 @@ Software de visualização da área de transferência do Windows, com as opçõe
 
 - 🔗 [Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
 - 🔗 [Inspect - Live Objects](https://docs.python.org/3/library/inspect.html)
-- 🔗 [Pyperclip - Clipboard Module for Python](https://docs.python.org/3/library/inspect.html)
+- 🔗 [Pyperclip - Clipboard Module for Python](https://pypi.org/project/pyperclip/)
 - 🔗 [Pillow - Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
 - 🔗 [Re - Regular Expression Operations](https://docs.python.org/3/library/re.html)
 - 🔗 [Os - Miscellaneous Operating System Interfaces](https://docs.python.org/3/library/os.html)
