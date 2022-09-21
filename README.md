@@ -31,6 +31,15 @@ Software de visualização da área de transferência do Windows, com as opçõe
   <img src="https://raw.githubusercontent.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto/main/img-read/Imagem.png" />
 </p>
 
+# Módulos e Packages Utilizados 💡
+
+- 🔗 [Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
+- 🔗 [Inspect - Live Objects](https://docs.python.org/3/library/inspect.html)
+- 🔗 [Pyperclip - Clipboard Module for Python](https://docs.python.org/3/library/inspect.html)
+- 🔗 [Pillow - Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
+- 🔗 [Re - Regular Expression Operations](https://docs.python.org/3/library/re.html)
+- 🔗 [Os - Miscellaneous Operating System Interfaces](https://docs.python.org/3/library/os.html)
+
 
 ## Autor ⌨️
 
