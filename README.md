@@ -1,5 +1,5 @@
 # Visualizador de Clipboard para Windows - Imagem e Texto 💾
-Software de visualização da área de transferência do Windows, com as opções de texto e imagem. Desenvolvida em Python em  com a IDE Tkinter e outros módulos de apoio. 
+Software de visualização da área de transferência do Windows, com as opções de visualização para texto e imagem. Desenvolvida em Python em  com a IDE Tkinter e outros módulos de apoio. 
 
 <br />
 <p align="center">
